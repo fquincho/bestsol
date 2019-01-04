@@ -1,2 +1,2 @@
-# fs_cli
+# fq_cli
 fq_cli
